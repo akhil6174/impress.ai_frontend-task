@@ -24,6 +24,10 @@
 
 **[DELETE]**   http://example.com/user/:id
 
+## Demo of Completed Assessment
+
+Click here to watch the video: [Video Title](https://github.com/akhil6174/impress.ai_frontend-task/blob/main/public/readme_multimedia/impressAI_task_demo.mp4)
+
 ## LEVELS
 
 ### Level 1 
