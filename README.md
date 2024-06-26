@@ -35,7 +35,7 @@
 	- [x] Ensure that both the name and email fields are not left empty and contain valid values before submission.
 	- [x] Implement validation for the email field to ensure that only valid email addresses are accepted.
 
-![image](https://github.com/impressai/frontend_task/assets/28563570/27ae4e34-0ccb-488f-9215-e95842322b97)
+![image](https://github.com/akhil6174/impress.ai_frontend-task/blob/main/public/readme_multimedia/level_1.png)
 
 
 
@@ -48,7 +48,7 @@
 - Fix Existing Issues: 
 	- [x] Form Reset on Submission: Ensure that after submitting the form, the values in the name and email input fields are cleared.
 
-![image](https://github.com/impressai/frontend_task/assets/28563570/65eda298-0f5b-4923-bbcc-45f7caf1b758)
+![image](https://github.com/akhil6174/impress.ai_frontend-task/blob/main/public/readme_multimedia/level2.png)
 
 
 
@@ -56,16 +56,11 @@
 - Add delete functionality:
 	- [x] Delete for Each User: Implement a delete feature for each user entry
 
-![image](https://github.com/impressai/frontend_task/assets/28563570/c3da4f55-6e89-47cc-bbde-35e3c20f80f6)
-
-
-
-
 ### Level 4
 - Add edit functionality:
 	- [x] Edit for Each User: Implement a edit feature for each user entry
 
-![image](https://github.com/impressai/frontend_task/assets/28563570/67fd80fc-c022-41b3-8f01-de11de046379)
+![image](https://github.com/akhil6174/impress.ai_frontend-task/blob/main/public/readme_multimedia/delete&edit.png)
 
 
 
